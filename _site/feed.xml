@@ -2,12 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xy的饭后杂谈</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>翠花，上酸菜
 </description>
     <link>http://cxy.tech/</link>
     <atom:link href="http://cxy.tech/feed.xml" rel="self" type="application/rss+xml"/>
+<<<<<<< HEAD
     <pubDate>Thu, 17 Mar 2016 18:43:18 +0800</pubDate>
     <lastBuildDate>Thu, 17 Mar 2016 18:43:18 +0800</lastBuildDate>
+=======
+    <pubDate>Thu, 17 Mar 2016 18:28:44 +0800</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 18:28:44 +0800</lastBuildDate>
+>>>>>>> gh-pages
     <generator>Jekyll v3.1.2</generator>
     
       <item>
