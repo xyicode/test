@@ -6,9 +6,25 @@
 </description>
     <link>http://cxy.tech/</link>
     <atom:link href="http://cxy.tech/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Mar 2016 18:47:48 +0800</pubDate>
-    <lastBuildDate>Thu, 17 Mar 2016 18:47:48 +0800</lastBuildDate>
+    <pubDate>Thu, 17 Mar 2016 18:57:28 +0800</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2016 18:57:28 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>我开通博客啦～～!</title>
+        <description>&lt;p&gt;今天开通了自己的博客园啦～又多了一个地方记录自己的生活，和技术分享学习啦～&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 17 Mar 2016 13:57:11 +0800</pubDate>
+        <link>http://cxy.tech/jekyll/update/2016/03/17/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://cxy.tech/jekyll/update/2016/03/17/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
   </channel>
 </rss>
