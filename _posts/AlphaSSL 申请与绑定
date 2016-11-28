@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "AlphaSSL 申请与绑定"
+date:   2016-11-28 13:57:11 +0800
+categories: jekyll update
+---
+1.IIS创建证书申请
+2.https://alpha.80host.com/ 申请AlphaSSL证书
+3.IIS完成证书申请导入证书
+4.站点绑定SSL证书
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
